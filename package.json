@@ -27,7 +27,7 @@
     "@ngrx/router-store": "^6.1.0",
     "@ngrx/schematics": "^6.1.0",
     "@ngrx/store": "^6.1.0",
-    "@ngrx/store-devtools": "^6.1.0",
+    "@ngrx/store-devtools": "^6.1.2",
     "core-js": "^2.4.1",
     "json-server": "^0.12.1",
     "rxjs": "^6.3.2",
